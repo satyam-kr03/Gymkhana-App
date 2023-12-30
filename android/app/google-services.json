@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "444779955214",
+    "project_id": "gymkhana-app-9fc9b",
+    "storage_bucket": "gymkhana-app-9fc9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444779955214:android:e16b1563fa2bf46aff685f",
+        "android_client_info": {
+          "package_name": "com.sntc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444779955214-8booblk1u6unf36a74r39be3mjikl073.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sntc.app",
+            "certificate_hash": "c80ee61063b5dc3adffd4777acc4e8c49c1eadf6"
+          }
+        },
+        {
+          "client_id": "444779955214-3t4bmsuc97nk3qlh8i74g6b4ce3jeb7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqNQuWMvOmI6_ZRI0sUF47hccuiO7ePwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444779955214-3t4bmsuc97nk3qlh8i74g6b4ce3jeb7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
